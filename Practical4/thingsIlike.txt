@@ -1,7 +1,22 @@
-111111111
-22222222
-333333333
-4444444
-55555555
-666
-777
+<<<<<<< HEAD
+=======
+I don’t like 1
+>>>>>>> Alex
+I like 2
+I like 3
+I like 4
+I like 5
+I like 6
+I like 7
+<<<<<<< HEAD
+I like 8
+I like 9
+I like 10 very much
+I like 1128
+=======
+I like 11
+I like 12
+I like 13
+I like 14
+I like 15
+>>>>>>> Alex
