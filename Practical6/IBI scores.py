@@ -16,3 +16,4 @@ if avg>=60:
 else:
     print("Fail")
 #Test whether the average score is passed
+#So Rob failed the ICA
