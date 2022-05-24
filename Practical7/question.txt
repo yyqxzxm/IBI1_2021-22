@@ -1,0 +1,8 @@
+the question which I chose:
+What proportion of cases have died (as of the latest information) in Germany? What proportion of cases have died in the UK?
+The answer for Germany is on the 52nd line.
+The answer for the UK is on the 61st line.
+
+The death proportion in Germany was 0.009416439196937638
+The death proportion in the UK was 0.06359243033286663
+These results show that the severity of the COVID-19 in Germany was significantly less than that in the UK by March 31, 2020. The UK government needs to set up stricter epidemic prevention measures to protect people's lives and health.
