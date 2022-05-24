@@ -1,0 +1,13 @@
+Findings:
+the percent of identical amino acids between random and human is 0.02768166089965398
+the percent of identical amino acids between human and mouse is 0.9653979238754326
+the percent of identical amino acids between random and mouse is 0.031141868512110725
+ 
+ 
+The score between mouse and human is: 1490
+The score between mouse and random is: -348
+The score between random and human is: -351
+
+
+Interpretation: 
+The high alignment score and percentage of identical amino acids in the human and mouse groups indicate that the human and mouse DLX5 sequences are quite similar, showing that DLX5 is highly conserved across species. As a result, DLX5 might be considered a housekeeping protein. Therefore, the function of DLX5 is vital for both mice and humans, and it may play a role in fundamental functions like energy production. Furthermore, the percentage and score for human-random or mouse-random are significantly lower. This proves that DLX5's similarity isn't merely coincidental.
